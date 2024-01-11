@@ -1,0 +1,1 @@
+Simple exploratory analysis, analyzing relationship between categorical-categorical, quantitative-quantitative, and categorical-quantitative variables.
